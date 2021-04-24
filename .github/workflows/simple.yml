@@ -1,6 +1,6 @@
 name: shell commands
 
-on: [push]
+on: [fork]
 
 jobs:
   run-shell-command:
